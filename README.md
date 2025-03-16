@@ -1,5 +1,6 @@
 🚀 Saucedemo Automation Project
 📌 Overview
+
 This project automates testing for SauceDemo using Selenium WebDriver and TestNG in a Java environment. It verifies core functionalities like login, adding products to the cart, and completing purchases.
 
 ⚙️ Prerequisites
